@@ -23,6 +23,6 @@ namespace FaktoriálisBigInteger
                 Console.WriteLine($"{szám} != {faktor}");
             }
             Console.ReadKey();
+            Console.WriteLine("ja");
         }
-    }
 }
